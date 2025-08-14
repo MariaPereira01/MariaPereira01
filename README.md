@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=400&color=a020f0&text=Maria%20Pereira%20:)&fontAlignY=49&section=header&fontAlign=49&fontColor=a020f0&fontSize=70&animation=fadeIn&desc=Internet%20Systems%20Student&descSize=0"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=000000&text=Maria%20Pereira%20:)&fontAlignY=49&section=header&fontAlign=49&fontColor=8A2BE2&fontSize=50&animation=fadeIn&desc=Internet%20Systems%20Student&descSize=-2"/>
 
 
 ---

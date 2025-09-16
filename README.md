@@ -1,8 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=000000&text=Hi!%20I'm%20Maria%20:)&fontAlignY=49&section=header&fontAlign=49&fontColor=8A2BE2&fontSize=40&animation=fadeIn&desc=Internet%20Systems%20Student&descSize=-2"/>
-
-<img width= 40%  align= "right" src= "https://private-user-images.githubusercontent.com/142419446/430224619-394b315c-eac8-413b-af00-1f0f26809439.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc5MDMwNjcsIm5iZiI6MTc1NzkwMjc2NywicGF0aCI6Ii8xNDI0MTk0NDYvNDMwMjI0NjE5LTM5NGIzMTVjLWVhYzgtNDEzYi1hZjAwLTFmMGYyNjgwOTQzOS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxNVQwMjE5MjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jODhjMTg2YmRlMTgzNGU2YzZmOWY5NmJmNGQwZWQ0OThmYmY0Zjk4OTQ2Y2IxMWM1MDQ0YWQzODgzYzc3NDk1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UHlrsJJNrVwe6rRdQAN5mYVY7CDFlLERCjNXsUhKJ4w" />
-
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=8A2BE2&center=true&width=435&lines=Hi%2C+I'm+Maria+Pereira+:);Welcome+!" alt="Typing SVG" width="50%" />
+  </a>
+  
 <h2 dir="auto"></h2>
+
+<img width= 40%  align= "right" src= "https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439"/>
+
 
 <div align="center">
   

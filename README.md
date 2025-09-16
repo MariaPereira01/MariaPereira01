@@ -23,7 +23,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MariaPereira01&theme=midnight-purple&hide_border=false" alt="Streak stats" />
+  <img 
+src="https://streak-stats.demolab.com/?user=MariaPereira01&theme=midnight-purple&hide_border=false" alt="Streak stats" />
 </p>
 
 <p align="center">
